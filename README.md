@@ -20,7 +20,7 @@
 
 1. :boom: **Updated** online demo: [![Replicate](https://img.shields.io/static/v1?label=Demo&message=Replicate&color=blue)](https://replicate.com/tencentarc/gfpgan). Here is the [backup](https://replicate.com/xinntao/gfpgan).
 1. :boom: **Updated** online demo: [![Huggingface Gradio](https://img.shields.io/static/v1?label=Demo&message=Huggingface%20Gradio&color=orange)](https://huggingface.co/spaces/Xintao/GFPGAN)
-1. [Colab Demo](https://colab.research.google.com/drive/1sVsoBd9AjckIXThgtZhGrHRfFI6UUYOo) for GFPGAN <a href="https://colab.research.google.com/drive/1T2gjAVeb56PUiFMNpD0ZpgQj0lD7W-nZ"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a>; (Another [Colab Demo](https://colab.research.google.com/drive/1T2gjAVeb56PUiFMNpD0ZpgQj0lD7W-nZ?usp=sharing) for the original paper model)
+1. [Colab Demo](https://colab.research.google.com/drive/1T2gjAVeb56PUiFMNpD0ZpgQj0lD7W-nZ) for GFPGAN <a href="https://colab.research.google.com/drive/1T2gjAVeb56PUiFMNpD0ZpgQj0lD7W-nZ"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a>; (Another [Colab Demo](https://colab.research.google.com/drive/1T2gjAVeb56PUiFMNpD0ZpgQj0lD7W-nZ?usp=sharing) for the original paper model)
 
 <!-- 3. Online demo: [Replicate.ai](https://replicate.com/xinntao/gfpgan) (may need to sign in, return the whole image)
 4. Online demo: [Baseten.co](https://app.baseten.co/applications/Q04Lz0d/operator_views/8qZG6Bg) (backed by GPU, returns the whole image)
